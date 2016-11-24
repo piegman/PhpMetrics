@@ -45,7 +45,7 @@ Then, if you need to update:
 
 The command command `phpmetrics --report-cli <folder or filename> ` will output:
 
-![Standard report](http://phpmetrics.github.io/PhpMetrics/images/report-standard.png)
+![Standard report](http://www.phpmetrics.org/images/report-standard.png)
 
 If you want to get the summary HTML report (with charts):
 
